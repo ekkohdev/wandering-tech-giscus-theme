@@ -85,6 +85,10 @@ main {
   --color-social-reaction-bg-reacted-hover: var(--color-scale-blue-8);
 }
 
+gsc-comment-header {
+  padding-top: 2rem;
+}
+
 .gsc-reactions-count {
   display: none;
 }
