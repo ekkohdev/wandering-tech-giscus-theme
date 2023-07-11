@@ -96,3 +96,8 @@ main .gsc-loading-image {
 .gsc-comment-header {
   padding-top: 1rem;
 }
+
+.gsc-comment-footer,
+.gsc-reply-footer {
+  margin-bottom: 1rem;
+}
