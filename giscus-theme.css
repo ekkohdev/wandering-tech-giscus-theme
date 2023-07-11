@@ -127,5 +127,7 @@ main .gsc-loading-image {
   border-end-start-radius: 0;
   padding-top: .75rem;
   padding-bottom: .75rem;
+  padding-inline-start: .75rem;
+  padding-inline-end: .75rem;
 }
 
