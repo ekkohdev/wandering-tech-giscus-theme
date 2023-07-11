@@ -1,6 +1,4 @@
 main {
-  --primary-default: 20, 222, 155;
-  --bg-default: 22, 22, 24;
   --color-prettylights-syntax-comment: #8b949e;
   --color-prettylights-syntax-constant: #79c0ff;
   --color-prettylights-syntax-entity: #d2a8ff;
@@ -60,7 +58,7 @@ main {
   --color-fg-default: #e6edf3;
   --color-fg-muted: #7d8590;
   --color-fg-subtle: #6e7681;
-  --color-canvas-default: #0d1117;
+  --color-canvas-default: #1C2128;
   --color-canvas-overlay: #161b22;
   --color-canvas-inset: #010409;
   --color-canvas-subtle: #161b22;
