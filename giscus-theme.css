@@ -61,7 +61,7 @@ main {
   --color-canvas-default: #22272E;
   --color-canvas-overlay: #161b22;
   --color-canvas-inset: #010409;
-  --color-canvas-subtle: #161b22;
+  --color-canvas-subtle: #1C2128;
   --color-border-default: #30363d;
   --color-border-muted: #21262d;
   --color-neutral-muted: rgb(110 118 129 / 40%);
@@ -93,6 +93,10 @@ main .gsc-loading-image {
   background-image: url("https://github.githubassets.com/images/mona-loading-dark.gif");
 }
 
+.color-box-border-info {
+  border-width: 2px !important;
+}
+
 .gsc-comment-header {
   padding-top: 1rem;
 }
@@ -115,6 +119,9 @@ main .gsc-loading-image {
   padding-top: 0;
 }
 
-.color-box-border-info {
-  border-width: 2px !important;
+.gsc-reply-box {
+  border-top-width: 0;
+  border-end-end-radius: 0;
+  border-end-start-radius: 0;
 }
+
