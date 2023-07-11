@@ -101,3 +101,7 @@ main .gsc-loading-image {
 .gsc-reply-footer {
   margin-bottom: 1rem;
 }
+
+.gsc-upvote-button {
+  display: none;
+}
