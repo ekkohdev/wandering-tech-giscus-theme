@@ -132,5 +132,5 @@ main .gsc-loading-image {
 }
 
 .gsc-reply-box button{
-  border-width: 0;
+  border-width: 0 !important;
 }
