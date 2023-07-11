@@ -106,6 +106,6 @@ main .gsc-loading-image {
   display: none;
 }
 
-.gsc-comment #__next :is(.border) {
-  border-width: 0px;
+.color-box-border-info {
+  border-width: 0px !important;
 }
