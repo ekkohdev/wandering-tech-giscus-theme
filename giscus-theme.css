@@ -116,6 +116,8 @@ main .gsc-loading-image {
 
 .gsc-replies {
   border-top-width: 0;
+  border-end-end-radius: 0;
+  border-end-start-radius: 0;
   padding-top: 0;
 }
 
