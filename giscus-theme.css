@@ -106,6 +106,15 @@ main .gsc-loading-image {
   display: none;
 }
 
+.gsc-comment-replies-count {
+  display: none;
+}
+
+.gsc-replies {
+  border-top-width: 0;
+  padding-top: 0;
+}
+
 .color-box-border-info {
-  border-width: 0px !important;
+  border-width: 2px !important;
 }
