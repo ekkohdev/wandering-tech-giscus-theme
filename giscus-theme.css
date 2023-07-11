@@ -110,6 +110,10 @@ main .gsc-loading-image {
   display: none;
 }
 
+.gsc-social-reaction-summary-item {
+  border-width: 0;
+}
+
 .gsc-comment-replies-count {
   display: none;
 }
